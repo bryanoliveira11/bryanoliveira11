@@ -1,6 +1,3 @@
-LOOPS STUDY (WHILE,FOR)
-
-
 # Multiplication Table With LOOPS
 
 table = int(input('Multiplication Table Number : '))
