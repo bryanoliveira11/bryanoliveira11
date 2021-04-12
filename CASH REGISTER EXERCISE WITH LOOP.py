@@ -2,9 +2,8 @@ import time
 
 product = 1
 count = 1
-price = 0
-total_price = 0
-pay = 0
+price = total_price = pay = 0
+
 
 print('Remember to Type 0 to end your shopping!')
 while product != 0:
