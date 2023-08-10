@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan de Oliveira</h1>
+
 - Currently Learning **Python-Django**
 
 - My Email : **bryan.oliveira12345@gmail.com**
