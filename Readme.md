@@ -4,10 +4,9 @@
 
 - My Email : **bryan.oliveira12345@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bryan-de-oliveira-9b8523208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan-de-oliveira-9b8523208" height="30" width="40" /></a>
-</p>
+- Linkedin : **https://linkedin.com/in/bryan-de-oliveira-9b8523208**
+
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanoliveira11&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanoliveira11" /></p>
 
