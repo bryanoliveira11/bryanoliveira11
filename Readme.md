@@ -14,5 +14,5 @@
 <br>
 
 <div width="86%" align="center">
-<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanoliveira11&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanoliveira11" /></p>
+<p><img align="center" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanoliveira11&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanoliveira11" /></p>
 </div>
