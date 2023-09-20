@@ -14,6 +14,5 @@
 <br>
 
 <div width="86%" align="center">
-<p><img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanoliveira11&theme=dark" alt="bryanoliveira11" /></p>
-<p><img align="right" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanoliveira11&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanoliveira11" /></p>
+<p><img align="center" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanoliveira11&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryanoliveira11" /></p>
 </div>
