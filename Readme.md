@@ -47,6 +47,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/bryanoliveira11/bryanoliveira11/output/snake.svg" alt="" />
+<img src="https://raw.githubusercontent.com/bryanoliveira11/bryanoliveira11/output/snake.svg?palette=github-dark" alt="Snake Game Animation" />
+
 
 ###
