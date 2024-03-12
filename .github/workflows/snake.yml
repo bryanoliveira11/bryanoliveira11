@@ -8,7 +8,7 @@ on:
 
   push:
     branches:
-    - master
+    - Python-Study-🐍
 
 jobs:
   generate:
